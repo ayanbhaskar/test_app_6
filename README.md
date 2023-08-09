@@ -1,1 +1,1 @@
-I Ayan will hearby try to Complete Ruby on rails Developer
+I Ayan will hearby try to Complete Ruby on rails Developer as usual
